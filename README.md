@@ -20,7 +20,7 @@ A Job is a set of steps in a workflow that is executed on the same runner.
 Each step is either a shell script that will be executed, or an action that will be run.
 Steps are executes in order and are dependent on each other
 
-Event
+Events
 =====
 A Event is a specific activity in a repository that triggers a workflow run.
 For example, activity can originate from GitHub when someone creates a pull request, opens an issue, or pushes a commit to a repository.
